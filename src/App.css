@@ -1,7 +1,44 @@
-.App {
-  text-align: center;
+.nav
+{
+  margin-bottom: 100px;
 }
 
+.card{
+  display: inline-block;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 300px;
+  height:auto;
+  padding : 20px;
+  margin: 20px;
+  margin-left:-10px;
+}
+
+.card1{
+  display: inline-block;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  width: 250px;
+  height:auto;
+  padding : 20px;
+  margin: 20px;
+  margin-left:-10px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 90%;
+}
+
+
+input.checkbox {
+  display: inline-block;
+}
+
+.contri{
+  margin-bottom:10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
